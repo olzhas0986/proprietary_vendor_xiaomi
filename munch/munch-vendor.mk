@@ -733,7 +733,6 @@ PRODUCT_PACKAGES += \
     libpdmapper \
     libpdnotifier \
     libperipheral_client \
-    libqcbor \
     libqcc_file_agent \
     libqcci_legacy \
     libqcmaputils \
